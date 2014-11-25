@@ -1,3 +1,3 @@
 test
 ====
-[![Build Status](https://travis-ci.org/hmitsui/vending_machine.svg?branch=0.0.x)](https://travis-ci.org/hmitsui/vending_machine)
+[![Build Status](https://travis-ci.org/hmitsui/test.svg?branch=master)](https://travis-ci.org/hmitsui/test)
