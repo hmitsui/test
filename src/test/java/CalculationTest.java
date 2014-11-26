@@ -1,7 +1,6 @@
-package test.java;
+package java;
 
 import static org.junit.Assert.*;
-import main.java.Calculation;
 
 import org.junit.Test;
 
