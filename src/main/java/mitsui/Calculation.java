@@ -1,4 +1,4 @@
-package java.mitsui;
+package mitsui;
 
 public class Calculation {
 	

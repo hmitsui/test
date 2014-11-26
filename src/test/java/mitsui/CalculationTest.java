@@ -1,4 +1,4 @@
-package java.mitsui;
+package mitsui;
 
 import static org.junit.Assert.*;
 
